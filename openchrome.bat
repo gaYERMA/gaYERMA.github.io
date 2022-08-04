@@ -1,0 +1,1 @@
+powershell OCR.ps1
